@@ -24,6 +24,6 @@ The environment follows a grid pattern for walkable tiles, although it doesn't n
 
 Items Need to fit within a 1x1 square.
 
-There are four example items included in this repository.
+There are four example items included in this repository in the "user_contributions" folder.
 
 Alternatively, you can instead upload assets to a site like [poly.pizza](https://poly.pizza) and release them under CC0/CC-BY there.
